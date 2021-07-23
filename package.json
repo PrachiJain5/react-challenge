@@ -1,0 +1,25 @@
+{
+  "name": "react-challenge-prachi",
+  "version": "1.0.0",
+  "description": "### Description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roo-Devs/react-challenge-prachi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roo-Devs/react-challenge-prachi/issues"
+  },
+  "homepage": "https://github.com/Roo-Devs/react-challenge-prachi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "unirest": "^0.6.0"
+  }
+}
